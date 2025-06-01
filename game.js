@@ -27,6 +27,9 @@ const colors = {
     lightPurple: '#da70d6',
     neonBlue: '#00ffff',
     royalBlue: '#4169e1',
+    neonGreen: '#39ff14',
+    brightOrange: '#ff8c00',
+    skyBlue: '#87ceeb',
     background: '#0a0a0a'
 };
 
